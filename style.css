@@ -1,0 +1,71 @@
+#header {
+	
+	position: relative;
+	background-color: white;
+
+}
+
+#header .header{
+	
+	position: absolute;
+	background-color: white;
+	border: solid black;
+
+}
+
+#header .header .header2{
+	position:absolute;
+	margin-left: 720px;
+	margin-top: 30px;
+}
+
+
+
+#header .header  .isi2{
+	position: absolute;
+	position: relative;
+	background-color: black;
+	height: 50px;
+	width: 1500px;
+	margin-top: 90px;
+	margin-left: 0px;
+		color : white;
+}
+
+#p2{
+	float: right;
+
+}
+#p3{
+	position: absolute;
+	position: relative;
+	color: black;
+;
+}
+.d4{
+	position: absolute;
+	position: relative;
+	margin-top: 200px;
+	
+	margin-right: auto;
+	background-color: black
+
+
+}
+.d11{
+	color: white;
+}
+.d12{
+	color: white;
+}
+
+#header  .tutup{
+	background-color: black;
+	position: absolute;
+	margin-top: 40px;
+}
+
+.footer{
+	background-color: white;
+	height: 20px;
+}
